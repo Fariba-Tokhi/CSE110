@@ -1,4 +1,4 @@
-![UCSD](images/UCSD.jpeg)
+![UCSD](image/UCSD.jpeg)
 
 #  Fariba's User Page
 
